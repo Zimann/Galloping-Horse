@@ -3,7 +3,7 @@
 &nbsp;
 ## Important Note
 
-  - All the assets were provided and by the [OliveStudio](http://www.olivestudio.net/) company.
+  - All the assets were provided by the [OliveStudio](http://www.olivestudio.net/) company.
 
 ### How does the animation unfold?
  - It starts with a couple of disparate shapes and then these come together, forming the silhouette of a horse.
