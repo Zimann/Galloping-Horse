@@ -15,3 +15,10 @@
 - [Greensock(GSAP)'s](https://greensock.com/) powerful animation library called TweenMax.js.
 - [Bowser.js](https://github.com/lancedikson/bowser) - to accomodate all the possible browser particularity fallbacks.
 - [Jquery](http://jquery.com/) - for DOM manipulation and easier element selection.
+
+
+### Extra informative notes
+
+- The animation is built to run smoothly on all the major browsers (including versions of IE below 11 ; officially tested on IE 10).
+- All the sizes follow an "adaptive" design pattern, with the container resizing when the page is refreshed.
+- The animation works on mobile (even on the smallest ones, down to 320px) devices and tablets alike.
