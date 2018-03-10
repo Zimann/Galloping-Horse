@@ -107,11 +107,14 @@ section{
     left: 54.6%;
     top: 0;
     width: 28%;
+    overflow:hidden;
 }
+
 .triangle-sub-medium {
     right: 11%;
     top: 50%;
     width:19%;
+    overflow: hidden;
 }
 .triangle-small {
     bottom: 15%;
