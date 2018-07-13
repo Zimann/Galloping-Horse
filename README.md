@@ -12,7 +12,7 @@
 &nbsp;
 #### What tools (libraries) were used to build it?
 
-- [Greensock(GSAP)'s](https://greensock.com/) powerful animation library called TweenMax.js.
+- [Greensock(GSAP)'s](https://greensock.com/) powerful JavaScript animation library called TweenMax.js.
 - [Bowser.js](https://github.com/lancedikson/bowser) - to accomodate all the possible browser particularity fallbacks.
 - [Jquery](http://jquery.com/) - for DOM manipulation and easier element selection.
 
